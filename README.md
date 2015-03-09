@@ -1,2 +1,0 @@
-# sweetverbs.github.io
-Website.
